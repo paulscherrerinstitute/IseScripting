@@ -1,3 +1,11 @@
+## 3.0.0
+* Non-reverse compatible changes
+  * Modified *\_\_init\_\_.py* to import classes without specifying their file-name.
+    * Old form: *from IseScripting.Build.Ise import Ise*
+    * New form: *from IseScripting.Build import Ise*
+* New Features
+  * Added packaging script and distribute as PIP package
+
 ## 2.0.0
 * First open-source release (older history discarded)
 * Changes (not reverse compatible)

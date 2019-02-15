@@ -9,10 +9,10 @@
 ########################################################################################################################
 import sys
 from PsiPyUtils.FileOperations import RemoveWithWildcard, OpenWithWildcard, AbsPathLinuxStyle
-from PsiPyUtils.TempFile import TempFile
-from PsiPyUtils.TempWorkDir import TempWorkDir
+from PsiPyUtils import TempFile
+from PsiPyUtils import TempWorkDir
 from PsiPyUtils.EnvVariables import AddToPathVariable
-from PsiPyUtils.ExtAppCall import ExtAppCall
+from PsiPyUtils import ExtAppCall
 import os
 
 

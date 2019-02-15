@@ -14,7 +14,7 @@ import os
 # Import Statements
 ########################################################################################################################
 from PsiPyUtils.EnvVariables import AddToPathVariable
-from PsiPyUtils.ExtAppCall import ExtAppCall
+from PsiPyUtils import ExtAppCall
 
 class Impact:
     """

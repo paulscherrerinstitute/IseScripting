@@ -11,9 +11,9 @@ import os
 import sys
 from PsiPyUtils.EnvVariables import AddToPathVariable
 from PsiPyUtils.FileOperations import OpenWithWildcard, AbsPathLinuxStyle
-from PsiPyUtils.TempFile import TempFile
-from PsiPyUtils.TempWorkDir import TempWorkDir
-from PsiPyUtils.ExtAppCall import ExtAppCall
+from PsiPyUtils import TempFile
+from PsiPyUtils import TempWorkDir
+from PsiPyUtils import ExtAppCall
 
 ########################################################################################################################
 # Class Defintion

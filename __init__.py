@@ -3,3 +3,6 @@
 #  All rights reserved.
 #  Authors: Oliver Bruendler
 ##############################################################################
+
+from . import Build
+from . import ReportParsing

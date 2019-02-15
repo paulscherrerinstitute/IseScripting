@@ -11,7 +11,7 @@ import sys
 import os
 import time
 from PsiPyUtils.EnvVariables import AddToPathVariable
-from PsiPyUtils.ExtAppCall import ExtAppCall
+from PsiPyUtils import ExtAppCall
 from PsiPyUtils.FileOperations import *
 import shutil
 from typing import List

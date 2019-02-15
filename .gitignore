@@ -5,3 +5,7 @@
 #Example outputs
 Example/**/*
 !Example/*.py
+
+#packaging artifacts
+IseScripting/
+*.egg-info

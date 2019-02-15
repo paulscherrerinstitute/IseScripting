@@ -10,7 +10,7 @@
 import os
 import sys
 from typing import Dict
-from PsiPyUtils.ExtAppCall import ExtAppCall
+from PsiPyUtils import ExtAppCall
 from PsiPyUtils.EnvVariables import AddToPathVariable
 
 ########################################################################################################################
