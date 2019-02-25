@@ -36,7 +36,7 @@ Alternatively the repository [psi\_fpga\_all](https://github.com/paulscherrerins
 to install, use the command below
 
 ```
-pip install <root>\dist\PsiPyUtils-<version>.tar.gz
+pip install <root>\dist\IseScripting-<version>.tar.gz
 ``` 
 
 Alternatively the package can be used directly as git-submodule (as it was done in the past). This allows for being reverse compatible and do not break projects that depend on using the package as submodule.
