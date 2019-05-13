@@ -1,3 +1,9 @@
+## 3.0.1
+* Features
+  * None
+* Bugfixes
+  * Fixed errors in documentation
+  
 ## 3.0.0
 * Non-reverse compatible changes
   * Modified *\_\_init\_\_.py* to import classes without specifying their file-name.
