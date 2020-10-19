@@ -1,3 +1,6 @@
+## 3.1.0
+* Update readme
+
 ## 3.0.1
 * Features
   * None
